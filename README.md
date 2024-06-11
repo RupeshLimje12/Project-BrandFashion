@@ -46,7 +46,9 @@ Project Demo Link : https://polite-flower-007a88e00.5.azurestaticapps.net/index.
 
 Project Video demo url : https://youtu.be/UVqdSZFxpqQ
 
-Github Reposetory Link : 
+Github Reposetory Link : https://github.com/RupeshLimje12/Project-BrandFashion.git
+
+
 
 Team contribution - 
 Rupesh Limje - JavaScript
