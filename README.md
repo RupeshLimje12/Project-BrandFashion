@@ -42,16 +42,19 @@ Screenshots :
 4cb2-8b28-6c0beaff2b45)
 
 About us :
-![Screenshot 2024-06-11 153334](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/475a52b3-c925-4db4-97bc-6e2684fdecea)
+![Screenshot 2024-06-12 143336](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/0641a750-f5c9-4935-8123-a6fc03255e4f)
+
 
 Collection :
-![Screenshot 2024-06-11 153352](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/97a7301a-b2e0-4b0e-9389-d5bda0871df1)
+![Screenshot 2024-06-12 143357](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/c082d34c-77d0-49b4-b0a9-34678d757ce7)
+
 
 Chatbot :
 ![Screenshot 2024-06-11 153437](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/853c51c5-7ad0-4b56-932c-63ccb9a8302d)
 
 Contact : 
-![Screenshot 2024-06-11 153453](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/60197ca6-d2e1-498a-85c3-1fa5f5957618)
+![Screenshot 2024-06-12 143619](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/0a6b904f-8df3-4c3f-9b0c-fba04ef83800)
+
 
 
 
