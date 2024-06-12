@@ -71,6 +71,12 @@ Url of project through Azure :https://portal.azure.com/#home
 
 Azure Core Services Used :-
 
+Azure Static WebApp:
+Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. It is used for hosting our website, development and testing, it looks after data management and security. It manages the patient data, support development and monitor the activities.
+![Screenshot 2024-06-12 143238](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/9dffc484-a510-4f71-857a-739a22e99ae8)
+
+
+
 
 
 Team contribution - 
