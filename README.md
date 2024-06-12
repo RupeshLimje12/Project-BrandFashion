@@ -56,7 +56,15 @@ Contact :
 ![Screenshot 2024-06-12 143619](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/0a6b904f-8df3-4c3f-9b0c-fba04ef83800)
 
 
+Azure Static WebApp:
+![Screenshot 2024-06-12 143238](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/9dffc484-a510-4f71-857a-739a22e99ae8)
 
+Azure Virtual Network:
+![Screenshot 2024-06-12 143238](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/43ebf868-bbec-4170-bd01-2ca8a593f9ce)
+
+Azure Bot:
+![Screenshot 2024-06-12 143552](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/3904b9e8-50e8-4030-a69d-dc76add749d5)
+ 
 
 
 Project Demo Link : https://polite-flower-007a88e00.5.azurestaticapps.net/index.html
@@ -65,7 +73,7 @@ Project Video demo url : https://youtu.be/UVqdSZFxpqQ
 
 Github Reposetory Link : https://github.com/RupeshLimje12/Project-BrandFashion.git
 
-Url of project through Azure :https://portal.azure.com/#home
+Url of project through Azure : https://polite-flower-007a88e00.5.azurestaticapps.net/index.html
 
 
 
@@ -76,7 +84,15 @@ Virtual Machines (VMs) are one of the core services provided by Microsoft Azure.
 ![Screenshot 2024-06-12 143238](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/9dffc484-a510-4f71-857a-739a22e99ae8)
 
 
+Azure Virtual Network:
+Azure Virtual Network (VNet) is a foundational building block for your private network in Azure. It enables many types of Azure resources, such as Azure Virtual Machines (VMs), to securely communicate with each other, the internet, and on-premises networks.
+![Screenshot 2024-06-12 143238](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/43ebf868-bbec-4170-bd01-2ca8a593f9ce)
 
+
+Azure Bot:
+Azure Health Bot is a cloud service provided by Microsoft Azure that enables the development of AI-powered health conversational agents. It provides patient interaction, symptom evaluation , remote consultaion, telemedicine support. It enhanced patient experience and helps them to get the correct information.
+![Screenshot 2024-06-12 143552](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/3904b9e8-50e8-4030-a69d-dc76add749d5)
+ 
 
 
 Team contribution - 
