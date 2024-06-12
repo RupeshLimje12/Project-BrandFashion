@@ -38,7 +38,7 @@ At BrandFashion, we're committed to helping you elevate your accessory game effo
 
 Screenshots :
  Home Page :
-![Screenshot 2024-06-12 143257](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/cafaccb9-643c-![Screenshot 2024-06-12 143257](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/75d669d9-8bdf-45f1-bd1c-b343c9c5f68e)
+![Screenshot 2024-06-12 143257](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/75d669d9-8bdf-45f1-bd1c-b343c9c5f68e)
 4cb2-8b28-6c0beaff2b45)
 
 About us :
