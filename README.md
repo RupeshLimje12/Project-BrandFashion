@@ -69,8 +69,7 @@ Azure Bot:
 
 Project Demo Link : https://polite-flower-007a88e00.5.azurestaticapps.net/index.html
 
-Project Video demo url : https://youtu.be/UVqdSZFxpqQ
-
+Project Video demo url : (https://youtu.be/UVqdSZFxpqQ?si=nMfrePP6UrbJPADI)
 Github Reposetory Link : https://github.com/RupeshLimje12/Project-BrandFashion.git
 
 Url of project through Azure : https://polite-flower-007a88e00.5.azurestaticapps.net/index.html
