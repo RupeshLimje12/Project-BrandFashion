@@ -5,11 +5,11 @@ This project is made for onling shopping & selling purpose and it is mainly prep
                        Industry : Lifestyle
 
 
-# Project Title:-
+# Project Title :-
   "BrandFashion: Your Online Destination for Stylish Carryalls"
 
 
-# Problem Statement :
+# Problem Statement :-
 The online shopping website specializing in the sale of bags is facing several critical challenges that are hindering its ability to provide a seamless and satisfactory shopping experience for its customers. These challenges include slow website performance, insufficient product information, limited search and filtering capabilities, complex checkout processes, inconsistent product availability, inadequate customer support, and a lack of diverse payment options. Addressing these issues is essential to enhance customer satisfaction, reduce cart abandonment rates, and improve the overall efficiency and competitiveness of the website in the crowded e-commerce market.
 
 # Problem Description :- 
@@ -17,7 +17,7 @@ The online shopping website specializing in the sale of bags is facing several c
 Enjoy a seamless shopping experience with easy navigation, secure payment options, and prompt delivery right to your doorstep. Plus, stay updated with our blog for fashion tips, styling advice, and insider insights into the world of bags.At BrandFashion, we're committed to helping you elevate your accessory game effortlessly. Discover your next favorite bag today!" 
 
 
-# Url Link:- 
+# Url Link :- 
 Project Demo Link : https://rupeshlimje12.github.io/Project-BrandFashion/
 
 Project Video demo url : https://youtu.be/d0zkPovI7-U?si=n-X47n_BseRI5vhZ
@@ -35,41 +35,46 @@ Url of project through Azure : https://polite-flower-007a88e00.5.azurestaticapps
 (3) JAVASCRIPT
 
 
-# Azure Core Services-
+# Azure Core Services :-
 1. Static web app
 2. Virtual network
 
 # Azure AI Services
 1. Language AI
-2. Chatbot Service
+2. AI Chatbot Service
 
 
 # Azure Core Services Used :-
 
-**Azure Static WebApp:**
+**1. Azure Static WebApp:**
+
 Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. It is used for hosting our website, development and testing, it looks after data management and security. It manages the patient data, support development and monitor the activities.
 ![Screenshot 2024-06-12 143238](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/9dffc484-a510-4f71-857a-739a22e99ae8)
 
 
-**Azure Virtual Network:**
+**2. Azure Virtual Network:**
+
 Azure Virtual Network (VNet) is a foundational building block for your private network in Azure. It enables many types of Azure resources, such as Azure Virtual Machines (VMs), to securely communicate with each other, the internet, and on-premises networks.
 ![Screenshot 2024-06-12 143238](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/43ebf868-bbec-4170-bd01-2ca8a593f9ce)
 
 
-**Azure Bot:**
+# Azure AI Services Used :-
+
+**1. Azure AI  Bot:**
+
 Azure Health Bot is a cloud service provided by Microsoft Azure that enables the development of AI-powered health conversational agents. It provides patient interaction, symptom evaluation , remote consultaion, telemedicine support. It enhanced patient experience and helps them to get the correct information.
 ![Screenshot 2024-06-13 095443](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/2e1c3c6a-db17-401a-9dd0-12e69584093f)
 
 
 
-# Team members contribution -
+# Team members contribution :-
  1. Rupesh Limje - JavaScript, Coordination and Leaading 
  2. Tanu Malviya - HTML, CSS, JS
  3. Priyanka Limje - HTML, CSS, testing
  4. Aniket Chidar - Azure Sevices
 
 
-# Screenshots :
+# Screenshots :-
  # Home Page :
 ![Screenshot 2024-06-12 143257](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/75d669d9-8bdf-45f1-bd1c-b343c9c5f68e)
 
@@ -89,28 +94,19 @@ Azure Health Bot is a cloud service provided by Microsoft Azure that enables the
 ![Screenshot 2024-06-12 143619](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/0a6b904f-8df3-4c3f-9b0c-fba04ef83800)
 
 
-# Azure Static WebApp:
-![Screenshot 2024-06-12 143238](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/9dffc484-a510-4f71-857a-739a22e99ae8)
 
-# Azure Virtual Network:
-![Screenshot 2024-06-12 143238](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/43ebf868-bbec-4170-bd01-2ca8a593f9ce)
+# Team Members Github Url :-
 
-# Azure Bot:
-![Screenshot 2024-06-13 095443](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/c550fd7c-07ee-4e23-8f21-12737170d4ce)
+1. Rupesh Limje (RupeshLimje12) - https://github.com/RupeshLimje12
 
+2. Tanu Malviya (tanumalviya415) - https://github.com/tanumalviya415
 
-# Team Members Github Id :
+3. Priyanka Limje (priyankalimje) - https://github.com/priyankalimje
 
-Rupesh Limje (RupeshLimje12) - https://github.com/RupeshLimje12
-
-Tanu Malviya (tanumalviya415) - https://github.com/tanumalviya415
-
-Priyanka Limje (priyankalimje) - https://github.com/priyankalimje
-
-Aniket Chidar (Aniket6268) - https://github.com/Aniket6268
+4. Aniket Chidar (Aniket6268) - https://github.com/Aniket6268
 
 
-# Disclaimer:
+# Disclaimer :-
 This project is for online shopping of bags which save your time and money. It provide discount according to the offers.
 Accuracy: Product descriptions and images may vary slightly.
 Pricing: Prices can change according to offers.
@@ -120,5 +116,5 @@ Liability: We are not liable for any damages from using our site or products.
 Intellectual Property: All content is owned by BrandFashion and protected by copyright laws.
 Privacy: See our Privacy Policy for data handling practices.
 
-# Contact:
+# Contact :-
 Email: rupeshlimje124@gmail.com
