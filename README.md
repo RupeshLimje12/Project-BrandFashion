@@ -39,7 +39,7 @@ Url of project through Azure : https://polite-flower-007a88e00.5.azurestaticapps
 1. Static web app
 2. Virtual network
 
-# Azure AI Services
+# Azure AI Services :-
 1. Language AI
 2. AI Chatbot Service
 
@@ -75,22 +75,22 @@ Azure Health Bot is a cloud service provided by Microsoft Azure that enables the
 
 
 # Screenshots :-
- # Home Page :
+ #1. Home Page :
 ![Screenshot 2024-06-12 143257](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/75d669d9-8bdf-45f1-bd1c-b343c9c5f68e)
 
 
-# About us :
+#2. About us :
 ![Screenshot 2024-06-12 143336](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/0641a750-f5c9-4935-8123-a6fc03255e4f)
 
 
-# Collection :
+#3. Collection :
 ![Screenshot 2024-06-12 143357](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/c082d34c-77d0-49b4-b0a9-34678d757ce7)
 
 
-# Chatbot :
+#4. Chatbot :
 ![Screenshot 2024-06-11 153437](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/853c51c5-7ad0-4b56-932c-63ccb9a8302d)
 
-# Contact : 
+#5. Contact : 
 ![Screenshot 2024-06-12 143619](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/0a6b904f-8df3-4c3f-9b0c-fba04ef83800)
 
 
