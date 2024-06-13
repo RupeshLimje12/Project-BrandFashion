@@ -1,1 +1,110 @@
-<iframe src='https://webchat.botframework.com/embed/BrandFashionLanguage-bot?s=wfl9LzNGu8c.J1riLPQfSrY9IqpOSzYywiM9a6XG1i915NgJ1IKBWMo'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootplus</title>
+    <link rel="icon" type="image/x-icon" href="images/logo1.png">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, rgb(74, 175, 167), #67aa88);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            color: #fff;
+        }
+
+        .chatbot-container {
+            text-align: center;
+            background: rgba(236, 236, 236, 0.2);
+            border-radius: 15px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+            padding: 30px;
+            max-width: 400px;
+            width: 90%;
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        .chatbot-container h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        .chatbot-frame iframe {
+            width: 90%;
+            height: 500px;
+            border-radius: 10px;
+            border: none;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: scale(0.9);
+            }
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .chatbot-container {
+                padding: 20px;
+                max-width: 90%;
+            }
+
+            .chatbot-frame iframe {
+                height: auto;
+                width: auto;
+            }
+        }
+          .button:hover {
+                background-color:rgb(236, 236, 236); 
+                color: white;
+        }
+        
+        .button {
+                background-color: #187441;  
+                border: none;
+                color: rgb(152, 46, 46);
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                width: 100%;
+                text-decoration: none;
+                transition-duration: 0.4s;
+                border-radius: 5px;
+            }
+
+            a:link { text-decoration: none; }
+            a:visited { text-decoration: none; }
+            a:hover { text-decoration: none; }
+            a:active { text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="chatbot-container d-flex">
+        <h1>Clear your doubts</h1>
+        <div class="chatbot-frame d-flex m-3 p-3 text-center">
+            <iframe src='https://webchat.botframework.com/embed/BrandFashionLanguage-bot?s=wfl9LzNGu8c.J1riLPQfSrY9IqpOSzYywiM9a6XG1i915NgJ1IKBWMo'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+
+        </div>
+       <div id="bac"><button type="submit" class="button"><a href="index.html" id="back" style="color: black;"  > Back To Home</a></button></div>
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('Chatbot page loaded');
+        });
+    </script>
+</body>
+</html>
+
+
+
+
