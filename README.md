@@ -18,7 +18,7 @@ Enjoy a seamless shopping experience with easy navigation, secure payment option
 
 
 # Url Link:- 
-Project Demo Link : https://polite-flower-007a88e00.5.azurestaticapps.net/index.html
+Project Demo Link : https://rupeshlimje12.github.io/Project-BrandFashion/
 
 Project Video demo url : https://youtu.be/d0zkPovI7-U?si=n-X47n_BseRI5vhZ
 
