@@ -16,10 +16,11 @@ The online shopping website specializing in the sale of bags is facing several c
  "Welcome to BrandFashion, where fashion meets functionality in the world of online bag shopping. Our website offers a curated collection of high-quality bags for every occasion, whether you're looking for a stylish tote for work, a sleek backpack for travel, or a chic clutch for a night out. Browse through our extensive catalog featuring the latest trends and timeless classics from top brands and emerging designers. With detailed product descriptions, multiple images, and customer reviews, you can make informed decisions and find the perfect bag to suit your style and needs.
 Enjoy a seamless shopping experience with easy navigation, secure payment options, and prompt delivery right to your doorstep. Plus, stay updated with our blog for fashion tips, styling advice, and insider insights into the world of bags.At BrandFashion, we're committed to helping you elevate your accessory game effortlessly. Discover your next favorite bag today!" 
 
+
 # Url Link:- 
 Project Demo Link : https://polite-flower-007a88e00.5.azurestaticapps.net/index.html
 
-Project Video demo url : (https://youtu.be/UVqdSZFxpqQ?si=nMfrePP6UrbJPADI)
+Project Video demo url : https://youtu.be/d0zkPovI7-U?si=n-X47n_BseRI5vhZ
 
 Github Reposetory Link : https://github.com/RupeshLimje12/Project-BrandFashion.git
 
@@ -33,13 +34,40 @@ Url of project through Azure : https://polite-flower-007a88e00.5.azurestaticapps
 
 (3) JAVASCRIPT
 
+
 # Azure Core Services-
 1. Static web app
 2. Virtual network
 
 # Azure AI Services
 1. Language AI
-2. Chatbot Service 
+2. Chatbot Service
+
+
+# Azure Core Services Used :-
+
+**Azure Static WebApp:**
+Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. It is used for hosting our website, development and testing, it looks after data management and security. It manages the patient data, support development and monitor the activities.
+![Screenshot 2024-06-12 143238](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/9dffc484-a510-4f71-857a-739a22e99ae8)
+
+
+**Azure Virtual Network:**
+Azure Virtual Network (VNet) is a foundational building block for your private network in Azure. It enables many types of Azure resources, such as Azure Virtual Machines (VMs), to securely communicate with each other, the internet, and on-premises networks.
+![Screenshot 2024-06-12 143238](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/43ebf868-bbec-4170-bd01-2ca8a593f9ce)
+
+
+**Azure Bot:**
+Azure Health Bot is a cloud service provided by Microsoft Azure that enables the development of AI-powered health conversational agents. It provides patient interaction, symptom evaluation , remote consultaion, telemedicine support. It enhanced patient experience and helps them to get the correct information.
+![Screenshot 2024-06-13 095443](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/2e1c3c6a-db17-401a-9dd0-12e69584093f)
+
+
+
+# Team members contribution -
+ 1. Rupesh Limje - JavaScript, Coordination and Leaading 
+ 2. Tanu Malviya - HTML, CSS, JS
+ 3. Priyanka Limje - HTML, CSS, testing
+ 4. Aniket Chidar - Azure Sevices
+
 
 # Screenshots :
  # Home Page :
@@ -68,32 +96,7 @@ Url of project through Azure : https://polite-flower-007a88e00.5.azurestaticapps
 ![Screenshot 2024-06-12 143238](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/43ebf868-bbec-4170-bd01-2ca8a593f9ce)
 
 # Azure Bot:
-![Screenshot 2024-06-12 143552](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/3904b9e8-50e8-4030-a69d-dc76add749d5)
- 
-
-# Azure Core Services Used :-
-
-**Azure Static WebApp:**
-Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. It is used for hosting our website, development and testing, it looks after data management and security. It manages the patient data, support development and monitor the activities.
-![Screenshot 2024-06-12 143238](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/9dffc484-a510-4f71-857a-739a22e99ae8)
-
-
-**Azure Virtual Network:**
-Azure Virtual Network (VNet) is a foundational building block for your private network in Azure. It enables many types of Azure resources, such as Azure Virtual Machines (VMs), to securely communicate with each other, the internet, and on-premises networks.
-![Screenshot 2024-06-12 143238](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/43ebf868-bbec-4170-bd01-2ca8a593f9ce)
-
-
-**Azure Bot:**
-Azure Health Bot is a cloud service provided by Microsoft Azure that enables the development of AI-powered health conversational agents. It provides patient interaction, symptom evaluation , remote consultaion, telemedicine support. It enhanced patient experience and helps them to get the correct information.
-![Screenshot 2024-06-12 143552](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/3904b9e8-50e8-4030-a69d-dc76add749d5)
- 
-
-
-# Team members contribution -
- 1. Rupesh Limje - JavaScript, Coordination and Leaading 
- 2. Tanu Malviya - HTML, CSS, JS
- 3. Priyanka Limje - HTML, CSS, testing
- 4. Aniket Chidar - Azure Sevices
+![Screenshot 2024-06-13 095443](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/c550fd7c-07ee-4e23-8f21-12737170d4ce)
 
 
 # Team Members Github Id :
@@ -105,6 +108,7 @@ Tanu Malviya (tanumalviya415) - https://github.com/tanumalviya415
 Priyanka Limje (priyankalimje) - https://github.com/priyankalimje
 
 Aniket Chidar (Aniket6268) - https://github.com/Aniket6268
+
 
 # Disclaimer:
 This project is for online shopping of bags which save your time and money. It provide discount according to the offers.
