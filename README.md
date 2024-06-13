@@ -35,6 +35,14 @@ Url of project through Azure : https://polite-flower-007a88e00.5.azurestaticapps
 (3) JAVASCRIPT
 
 
+# Team members contribution :-
+ 1. Rupesh Limje - JavaScript, Coordination and Leaading 
+ 2. Tanu Malviya - HTML, CSS, JS
+ 3. Priyanka Limje - HTML, CSS, testing
+ 4. Aniket Chidar - Azure Sevices
+
+
+
 # Azure Core Services :-
 1. Static web app
 2. Virtual network
@@ -64,14 +72,6 @@ Azure Virtual Network (VNet) is a foundational building block for your private n
 
 Azure Health Bot is a cloud service provided by Microsoft Azure that enables the development of AI-powered health conversational agents. It provides patient interaction, symptom evaluation , remote consultaion, telemedicine support. It enhanced patient experience and helps them to get the correct information.
 ![Screenshot 2024-06-13 095443](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/2e1c3c6a-db17-401a-9dd0-12e69584093f)
-
-
-
-# Team members contribution :-
- 1. Rupesh Limje - JavaScript, Coordination and Leaading 
- 2. Tanu Malviya - HTML, CSS, JS
- 3. Priyanka Limje - HTML, CSS, testing
- 4. Aniket Chidar - Azure Sevices
 
 
 # Screenshots :-
