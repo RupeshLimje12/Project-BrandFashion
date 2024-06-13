@@ -1,3 +1,8 @@
+**IDE: VS-Code**
+
+**Note: Bot is deployed on healthbot.html file**
+
+
 # BrandFashion
 This project is made for onling shopping & selling purpose and it is mainly prepared for FRT project  
                
@@ -6,7 +11,7 @@ This project is made for onling shopping & selling purpose and it is mainly prep
 
 
 # Project Title :-
-  "BrandFashion: Your Online Destination for Stylish Carryalls"
+**BrandFashion**: "Your Online Destination for Stylish Bags"
 
 
 # Problem Statement :-
@@ -18,21 +23,21 @@ Enjoy a seamless shopping experience with easy navigation, secure payment option
 
 
 # Url Link :- 
-Project Demo Link : https://rupeshlimje12.github.io/Project-BrandFashion/
+1. Project Demo Link : https://rupeshlimje12.github.io/Project-BrandFashion/
 
-Project Video demo url : https://youtu.be/d0zkPovI7-U?si=n-X47n_BseRI5vhZ
+2. Project Video demo url : https://youtu.be/d0zkPovI7-U?si=n-X47n_BseRI5vhZ
 
-Github Reposetory Link : https://github.com/RupeshLimje12/Project-BrandFashion.git
+3. Github Reposetory Link : https://github.com/RupeshLimje12/Project-BrandFashion.git
 
-Url of project through Azure : https://polite-flower-007a88e00.5.azurestaticapps.net/index.html
+4. Url of project through Azure : https://polite-flower-007a88e00.5.azurestaticapps.net/index.html
 
 
 # Technology Stack :- 
-(1) HTML
+1. HTML
 
-(2) CSS 
+2. CSS 
 
-(3) JAVASCRIPT
+3. JAVASCRIPT
 
 
 # Team members contribution :-
@@ -68,7 +73,7 @@ Azure Virtual Network (VNet) is a foundational building block for your private n
 
 # Azure AI Services Used :-
 
-**1. Azure AI  Bot:**
+**1. Azure AI  Bot Service:**
 
 Azure Health Bot is a cloud service provided by Microsoft Azure that enables the development of AI-powered health conversational agents. It provides patient interaction, symptom evaluation , remote consultaion, telemedicine support. It enhanced patient experience and helps them to get the correct information.
 ![Screenshot 2024-06-13 095443](https://github.com/RupeshLimje12/Project-BrandFashion/assets/172354061/2e1c3c6a-db17-401a-9dd0-12e69584093f)
