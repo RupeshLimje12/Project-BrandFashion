@@ -25,7 +25,7 @@ Enjoy a seamless shopping experience with easy navigation, secure payment option
 # Url Link :- 
 1. Project Demo Link : https://rupeshlimje12.github.io/Project-BrandFashion/
 
-2. Project Video demo url : https://youtu.be/d0zkPovI7-U?si=n-X47n_BseRI5vhZ
+2. Project Video demo url : https://youtu.be/d0zkPovI7-U?si=NasfFx7AOsbBlJp1
 
 3. Github Reposetory Link : https://github.com/RupeshLimje12/Project-BrandFashion.git
 
